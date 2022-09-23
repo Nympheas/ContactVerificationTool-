@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "active": "assets/img/menu1.png",
+        "default": "assets/img/menu1.png"
+    }, {
+        "id": "2",
+        "active": "assets/img/menu2.png",
+        "default": "assets/img/menu2.png"
+    }, {
+        "id": "3",
+        "active": "assets/img/menu3.png",
+        "default": "assets/img/menu3.png"
+    }, {
+        "id": "4",
+        "active": "assets/img/menu4.png",
+        "default": "assets/img/menu4.png"
+    }
+]
